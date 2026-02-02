@@ -145,7 +145,7 @@ https://jsonplaceholder.typicode.com/posts?_limit=5
 
 ---
 
-## Clone Repo
+## ♻️ Clone Repo
 
 ```
 - git clone https://github.com/Coding1610/Anedya_Frontend_Task.git
