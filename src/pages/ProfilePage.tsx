@@ -81,7 +81,7 @@ const ProfilePage = () => {
                     </div>
                     <div>
                       <p className="text-xs text-muted-foreground">Phone</p>
-                      <p className="text-sm font-medium">+1 (555) 123-4567</p>
+                      <p className="text-sm font-medium">+91 96570-73921</p>
                     </div>
                   </div>
 
@@ -91,7 +91,7 @@ const ProfilePage = () => {
                     </div>
                     <div>
                       <p className="text-xs text-muted-foreground">Location</p>
-                      <p className="text-sm font-medium">San Francisco, CA</p>
+                      <p className="text-sm font-medium">India GJ</p>
                     </div>
                   </div>
 
@@ -101,7 +101,7 @@ const ProfilePage = () => {
                     </div>
                     <div>
                       <p className="text-xs text-muted-foreground">Member Since</p>
-                      <p className="text-sm font-medium">January 2024</p>
+                      <p className="text-sm font-medium">January 2026</p>
                     </div>
                   </div>
                 </div>
