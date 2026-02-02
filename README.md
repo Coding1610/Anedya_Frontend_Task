@@ -1,4 +1,4 @@
-# 🔐 Role-Based Dashboard Application (React + TypeScript)
+# 🔐 Role Based Dashboard Application (React + TypeScript)
 
 A modern **role-based dashboard web application** built using **React, TypeScript, Tailwind CSS**, and **Framer Motion**.  
 This project focuses on **frontend architecture**, **role-based access control**, **protected routing**, and **state management using React Context API**.
@@ -79,7 +79,7 @@ src/
 
 ---
 
-## Types
+## 🛡️ Types
 
 ```ts
 export type UserRole = 'admin' | 'user';
@@ -148,7 +148,7 @@ https://jsonplaceholder.typicode.com/posts?_limit=5
 ## Clone Repo
 
 ```
-- git clone
+- git clone https://github.com/Coding1610/Anedya_Frontend_Task.git
 ```
 - npm i
 - npm run dev
