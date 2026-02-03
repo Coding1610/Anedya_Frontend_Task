@@ -46,6 +46,7 @@ const LoginPage = () => {
           </div>
 
           <div className="space-y-4">
+            
             {/* admin login card */}
             <div className="animate-in fade-in slide-in-from-left-4 duration-500 delay-200">
               <Card 
@@ -78,6 +79,7 @@ const LoginPage = () => {
                 </CardContent>
               </Card>
             </div>
+            
             {/* user login card */}
             <div className="animate-in fade-in slide-in-from-left-4 duration-500 delay-300">
               <Card 

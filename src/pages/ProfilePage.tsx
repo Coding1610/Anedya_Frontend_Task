@@ -9,7 +9,6 @@ const ProfilePage = () => {
 
   return(
     <>
-      
       <div className="space-y-6 w-full max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
         
         <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
@@ -25,7 +24,7 @@ const ProfilePage = () => {
           </Button>
         </div>
 
-        <div className="grid gap-6 grid-cols-1 lg:grid-cols-3">
+        <div className="grid gap-6 grid-cols-1 lg:grid-cols-3">    
           
           <div className="lg:col-span-1 animate-in fade-in slide-in-from-bottom-4 duration-500">
             <Card className="h-full">
@@ -87,10 +86,13 @@ const ProfilePage = () => {
                     </div>
                   ))}
                 </div>
+
               </CardContent>
             </Card>
           </div>
+
         </div>
+
       </div>
     </>
   );

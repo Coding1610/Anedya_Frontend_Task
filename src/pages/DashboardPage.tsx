@@ -18,6 +18,7 @@ interface Post {
   userId: number;
 }
 
+// static data
 const stats = [
   {
     title: 'Total Revenue',
@@ -56,6 +57,7 @@ const DashboardPage: React.FC = () => {
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
+  // api calling function
   useEffect(() => {
     const fetchPosts = async () => {
       try {

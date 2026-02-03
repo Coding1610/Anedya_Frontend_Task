@@ -1,5 +1,7 @@
+// user role enum
 export type UserRole = 'admin' | 'user';
 
+// user type
 export interface User {
   id: string;
   name: string;
@@ -8,6 +10,7 @@ export interface User {
   avatar?: string;
 }
 
+// token type
 export interface AuthToken {
   token: string;
   expiresAt: number;
