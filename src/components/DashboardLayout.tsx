@@ -166,7 +166,7 @@ export const DashboardLayout: React.FC<DashboardLayoutProps> = ({ children }) =>
           </header>
 
           {/* Page Content */}
-          <div className="p-6 flex-1 animate-fade-in">
+          <div className="pl-7 p-6 flex-1 animate-fade-in">
             {children}
           </div>
         </main>
