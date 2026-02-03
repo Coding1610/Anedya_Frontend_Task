@@ -148,7 +148,7 @@ https://jsonplaceholder.typicode.com/posts?_limit=5
 ## ♻️ Clone Repo
 
 ```
-- git clone https://github.com/Coding1610/Anedya_Frontend_Task.git
+git clone https://github.com/Coding1610/Anedya_Frontend_Task.git
 ```
 - npm i
 - npm run dev
